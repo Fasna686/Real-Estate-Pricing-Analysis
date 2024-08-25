@@ -1,61 +1,72 @@
-# Real-Estate-Pricing-Analysis
-Data Visualization using TABLEAU
+### **Real Estate Pricing Analysis**
+**Data Visualization using Tableau**
 
-
-
-### **Real Estate Pricing Analysis: Enhancing the House Recommendation System**
-
-As the Lead Data Analyst at a Real Estate company in Boston, you embarked on an in-depth analysis of the House Pricing dataset, covering the period from 1988 to 1994. The goal was to derive actionable insights to refine and improve the company's House Recommendation System, ensuring it better aligns with market trends and customer preferences.
+The **Real Estate Pricing Analysis** project focused on enhancing the House Recommendation System for a real estate company by leveraging insights from an exploratory data analysis of the provided House Pricing dataset. The project aimed to present Senior Management with a comprehensive and visually compelling storyboard that illustrated key trends and actionable insights within Boston's real estate market. The analysis was designed to facilitate informed decision-making, empowering management to refine and optimize the existing recommendation system based on data-driven observations.
 
 ### **Key Insights:**
 
 1. **General Sales Overview:**
-   - The analysis revealed a significant uptick in sales starting in 1990, with a total of 417 properties sold, amounting to $69 million. Residential and Commercial properties made up 66.19% of these sales, highlighting their dominance in the market.
+   - **Time Period:** The analysis covered 1988-1994, with a significant increase in sales starting in 1990.
+   - **Total Properties and Sales:** A total of 417 properties were sold, generating $69 million in sales, with Residential and Commercial properties making up 66.19% of the market.
 
 2. **Most and Least Sold Properties:**
-   - Streets like Cambridge and Mass Avenue emerged as top performers, with Cambridge Pky leading with $50.1 million in sales. Conversely, Sciarappa St showed lower sales despite potential, likely due to a longer waiting period of 162 days.
+   - **Top Streets:** Streets like Cambridge, Mass Avenue, and Harvard St. were among the top sellers, with Cambridge Pky leading in total sales.
+   - **Low Sales:** Sciarappa St. had lower sales despite potential, primarily due to longer waiting periods.
 
 3. **Area, Street, and Feature Analysis:**
-   - Areas M and HS were major contributors, accounting for 70% of sales. While Area M had fewer properties, it recorded higher sales, whereas Area HS faced longer waiting periods. A positive correlation was found between internal square footage, taxes, and condo fees in residential properties.
+   - **Area M and HS:** These areas accounted for 70% of total sales. Area M, though having fewer properties, saw higher sales, while Area HS had longer average waiting periods.
+   - **Street and Feature Analysis:** Streets like Cambridge Pky had the highest sales with lower waiting periods, and a positive correlation was found between internal square footage, taxes, and condo fees for residential properties.
 
 4. **Bed, Bath, and Room Analysis:**
-   - Residential properties typically started with three rooms and could have up to seven, while commercial properties had more beds and rooms, extending up to eight. Notably, square footage and costs increased significantly at the sixth room, especially in residential homes.
+   - **Residential Properties:** Typically ranged from 3 to 7 rooms, with a significant increase in square footage and costs at the sixth room.
+   - **Commercial Properties:** Featured more beds and rooms, with up to 8 rooms, and generally lower taxes and fees compared to residential properties.
 
 5. **Sales Trend Behavior:**
-   - Monthly sales peaked in July and August, with a decline during December-January. A sharp rise was observed in August 1993, with a notable 39.98% increase that year.
+   - **Monthly Trends:** Sales peaked in July and August, with a decline during December-January.
+   - **Yearly Trends:** There was a sharp rise in sales in August 1993, contributing to a 39.98% increase that year.
 
 6. **Demographics and Property Characteristics:**
-   - The analysis showed a higher concentration of properties in Areas M and HS, with a significant number of Residential and Commercial combined properties. Listing durations varied widely, with the shortest being 14 days and the longest 110 days.
+   - **Area-Wise Distribution:** Higher concentration of properties in Areas M and HS.
+   - **Listing Duration:** Listing durations varied, with the shortest being 14 days and the longest 110 days.
+   - **Property Types:** The majority of properties were Residential and Commercial combined, with higher unit counts for Unit-3 properties.
 
 7. **Sales Specifics:**
-   - The maximum sale price recorded was $16.85 million, with the highest sales in Area M. Tax and condo fees were notably higher in the M area and on Mass Ave Street.
+   - **Max Sale Price:** The maximum recorded sale price was $16.85 million, with the highest sales in Area M.
+   - **Tax and Condo Fee Analysis:** Higher taxes and fees were observed in the M area and on Mass Ave Street.
 
-### **Strategic Recommendations:**
+### **Recommendations:**
 
 1. **Leverage High-Demand Periods:**
-   - Increase marketing efforts during July and August to capitalize on higher sales trends.
+   - **Action:** Increase marketing efforts and host open house events during July and August to capitalize on peak sales periods.
 
-2. **Focus on High-Potential Streets:**
-   - Target top-grossing streets like Cambridge Pky with customized marketing strategies while investigating and addressing issues on streets with lower sales like Sciarappa St.
+2. **Target High-Potential Streets:**
+   - **Action:** Develop targeted marketing strategies for top-grossing streets like Cambridge Pky and Mt. Auburn St., and address issues on streets like Sciarappa St. to unlock their potential.
 
 3. **Optimize Area-Based Strategies:**
-   - Concentrate resources on high-performing areas like M and HS and implement measures to reduce waiting periods in areas with delays.
+   - **Action:** Focus resources on high-performing areas like M and HS. Implement strategies to reduce waiting periods in areas with delays.
 
 4. **Tailor Property Type Strategies:**
-   - Highlight premium features in residential properties to justify higher prices and emphasize the lower taxes and higher room counts in commercial properties to attract business buyers.
+   - **Action:** Emphasize premium features in residential properties to justify higher prices and highlight lower taxes and higher room counts in commercial properties to attract business buyers.
 
 5. **Promote Sales in Specific Quarters:**
-   - Offer promotions or discounts in the third quarter to replicate the high sales seen in 1993, and provide incentives for quick closings to reduce the average waiting period.
+   - **Action:** Offer promotions or discounts in the third quarter to replicate high sales trends, and provide incentives for quick closings to reduce the average waiting period.
 
 6. **Utilize Demographic Insights:**
-   - Focus development and sales efforts in areas with higher property concentrations and adjust listings to reduce market time for properties with longer durations.
+   - **Action:** Concentrate development and sales efforts in areas with higher property concentrations and adjust listings to reduce market time for properties with longer durations.
 
 7. **Enhance Property Features:**
-   - Invest in properties with more rooms and higher square footage, as these are correlated with higher sale prices and taxes.
+   - **Action:** Invest in properties with more rooms and higher square footage, as these are correlated with higher sale prices and taxes.
 
 8. **Continuous Monitoring:**
-   - Regularly analyze sales trends to adjust strategies promptly and capitalize on emerging patterns.
+   - **Action:** Regularly analyze sales trends to adjust strategies and capitalize on emerging patterns.
 
----
+### **Skills & Tools Covered:**
 
-This comprehensive analysis and the resulting recommendations are designed to help the Senior Management make informed decisions to enhance the effectiveness of the House Recommendation System, ultimately driving better sales outcomes and customer satisfaction.
+- **Creating Views and Charts:** Developed various charts to visualize key insights.
+- **Data Filters and Applications:** Applied filters to focus on specific data aspects.
+- **Data Modification and Transformation:** Used calculations to transform raw data into actionable metrics.
+- **Quick Table Calculations:** Derived essential metrics for dynamic trend analysis.
+- **Parameters for Measure Switching:** Allowed users to switch between different measures for interactive analysis.
+- **Filter Actions for Navigation:** Enabled seamless navigation between dashboards for detailed exploration.
+
+This project demonstrated expertise in Tableau and the ability to turn complex data into actionable insights, guiding strategic decision-making in the real estate industry. The final storyboard provided a clear, data-driven path for enhancing the House Recommendation System.
