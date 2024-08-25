@@ -1,8 +1,7 @@
 # Real-Estate-Pricing-Analysis
 Data Visualization using TABLEAU
-Here's an overall description of your project:
 
----
+
 
 ### **Real Estate Pricing Analysis: Enhancing the House Recommendation System**
 
